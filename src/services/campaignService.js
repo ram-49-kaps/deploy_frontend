@@ -1,4 +1,4 @@
-const API_URL = "https://deploybackend-production-2253.up.railway.app/api/campaigns";
+const API_URL = "https://deploybackend-production-f46a.up.railway.app/api/campaigns";
 
 export const getCampaigns = async () => {
   const res = await fetch(API_URL);
